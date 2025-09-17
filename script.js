@@ -10,6 +10,6 @@ function insert_Row() {
   const newCell2 = newRow.insertCell(1);
 
   // Set the text content for each cell as specified
-  newCell1.innerHTML = 'New Cell1';
-  newCell2.innerHTML = 'New Cell2';
+  newCell1.innerHTML = 'Row2 Cell1';
+  newCell2.innerHTML = 'Row2 Cell2';
 }
